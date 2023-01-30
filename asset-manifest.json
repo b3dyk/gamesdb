@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/gamesdb/static/css/main.7acaea2f.css",
+    "main.js": "/gamesdb/static/js/main.3327d8c3.js",
+    "static/js/955.782a6d2f.chunk.js": "/gamesdb/static/js/955.782a6d2f.chunk.js",
+    "static/js/156.051339de.chunk.js": "/gamesdb/static/js/156.051339de.chunk.js",
+    "static/js/748.f29abb3d.chunk.js": "/gamesdb/static/js/748.f29abb3d.chunk.js",
+    "static/js/827.71cdb5e6.chunk.js": "/gamesdb/static/js/827.71cdb5e6.chunk.js",
+    "static/media/no-image-available.jpg": "/gamesdb/static/media/no-image-available.eda981ad60e201093cb1.jpg",
+    "static/media/tmdb.svg": "/gamesdb/static/media/tmdb.de1a664e8d0777ca4ddb2a5a298bcfb6.svg",
+    "index.html": "/gamesdb/index.html",
+    "main.7acaea2f.css.map": "/gamesdb/static/css/main.7acaea2f.css.map",
+    "main.3327d8c3.js.map": "/gamesdb/static/js/main.3327d8c3.js.map",
+    "955.782a6d2f.chunk.js.map": "/gamesdb/static/js/955.782a6d2f.chunk.js.map",
+    "156.051339de.chunk.js.map": "/gamesdb/static/js/156.051339de.chunk.js.map",
+    "748.f29abb3d.chunk.js.map": "/gamesdb/static/js/748.f29abb3d.chunk.js.map",
+    "827.71cdb5e6.chunk.js.map": "/gamesdb/static/js/827.71cdb5e6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7acaea2f.css",
+    "static/js/main.3327d8c3.js"
+  ]
+}
